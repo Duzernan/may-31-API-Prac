@@ -1,0 +1,22 @@
+* {
+    background-color: black;
+
+}
+
+#header {
+    color: white;
+    text-align: center;
+
+}
+
+#products-container {
+    text-align: center;
+    color: white;
+    padding: 2rem;
+}
+
+#posts-container {
+    text-align: center;
+    color: white;
+    padding: 2rem;
+}
